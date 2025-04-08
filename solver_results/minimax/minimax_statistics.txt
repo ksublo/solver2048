@@ -1,0 +1,11 @@
+Lowest Score: 2692.0
+Highest Score: 18312.0
+Lowest Max Tail: 128.0
+Highest Max Tail: 1024.0
+Lowest Moves: 1119.0
+Highest Moves: 3727.0
+Max Details: (18312.0, 1024.0, 3559.0)
+Min Details: (2692.0, 128.0, 1119.0)
+Average Score: 9827.60
+Average Max Tile: 627.20
+Average Moves: 2485.27
