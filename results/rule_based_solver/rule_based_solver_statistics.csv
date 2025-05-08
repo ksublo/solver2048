@@ -1,0 +1,14 @@
+Summary for rule_based_solver_results.csv
+
+Score        min=580, max=4312, avg=2551.04
+Max_Tile     min=32, max=256, avg=197.12
+Total_Moves  min=617, max=617, avg=617.00
+
+Directional moves:
+  moves_left   min=60, max=250, avg=159.38
+  moves_right  min=0, max=1, avg=0.18
+  moves_up     min=2, max=19, avg=10.86
+  moves_down   min=19, max=104, avg=56.04
+
+Best score run:  {'score': 4312, 'max_tile': 256, 'total_moves': 617, 'moves_left': 233, 'moves_right': 1, 'moves_up': 19, 'moves_down': 104}
+Worst score run: {'score': 580, 'max_tile': 32, 'total_moves': 617, 'moves_left': 60, 'moves_right': 0, 'moves_up': 3, 'moves_down': 22}

@@ -1,0 +1,14 @@
+Summary for expectimax_solver_results.csv
+
+Score        min=2680, max=18576, avg=9207.04
+Max_Tile     min=128, max=1024, avg=619.52
+Total_Moves  min=241, max=996, avg=592.74
+
+Directional moves:
+  moves_left   min=13, max=139, avg=69.10
+  moves_right  min=86, max=416, avg=228.26
+  moves_up     min=14, max=188, avg=68.90
+  moves_down   min=89, max=371, avg=225.50
+
+Best score run:  {'score': 18576, 'max_tile': 1024, 'total_moves': 996, 'moves_left': 45, 'moves_right': 416, 'moves_up': 179, 'moves_down': 356}
+Worst score run: {'score': 2680, 'max_tile': 128, 'total_moves': 241, 'moves_left': 24, 'moves_right': 100, 'moves_up': 27, 'moves_down': 89}

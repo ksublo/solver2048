@@ -1,0 +1,14 @@
+Summary for random_solver_results.csv
+
+Score        min=248, max=2128, avg=1003.12
+Max_Tile     min=32, max=256, avg=99.84
+Total_Moves  min=57, max=196, avg=134.78
+
+Directional moves:
+  moves_left   min=15, max=55, avg=33.46
+  moves_right  min=11, max=61, avg=33.52
+  moves_up     min=16, max=60, avg=33.90
+  moves_down   min=14, max=52, avg=32.90
+
+Best score run:  {'score': 2128, 'max_tile': 256, 'total_moves': 196, 'moves_left': 55, 'moves_right': 44, 'moves_up': 47, 'moves_down': 49}
+Worst score run: {'score': 248, 'max_tile': 32, 'total_moves': 57, 'moves_left': 15, 'moves_right': 11, 'moves_up': 16, 'moves_down': 14}

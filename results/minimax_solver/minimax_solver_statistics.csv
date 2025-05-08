@@ -1,0 +1,14 @@
+Summary for minimax_solver_results.csv
+
+Score        min=428, max=21072, avg=10343.84
+Max_Tile     min=32, max=1024, avg=625.28
+Total_Moves  min=72, max=1173, avg=651.72
+
+Directional moves:
+  moves_left   min=1, max=190, avg=86.74
+  moves_right  min=29, max=417, avg=232.20
+  moves_up     min=19, max=199, avg=85.78
+  moves_down   min=22, max=444, avg=246.04
+
+Best score run:  {'score': 21072, 'max_tile': 1024, 'total_moves': 1173, 'moves_left': 147, 'moves_right': 417, 'moves_up': 164, 'moves_down': 444}
+Worst score run: {'score': 428, 'max_tile': 32, 'total_moves': 72, 'moves_left': 1, 'moves_right': 29, 'moves_up': 19, 'moves_down': 22}
