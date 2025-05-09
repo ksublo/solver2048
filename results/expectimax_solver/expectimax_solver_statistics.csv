@@ -1,14 +1,14 @@
 Summary for expectimax_solver_results.csv
 
-Score        min=2680, max=18576, avg=9207.04
-Max_Tile     min=128, max=1024, avg=619.52
-Total_Moves  min=241, max=996, avg=592.74
+Score        min=3124, max=16484, avg=9933.12
+Max_Tile     min=256, max=1024, avg=737.28
+Total_Moves  min=258, max=985, avg=622.80
 
 Directional moves:
-  moves_left   min=13, max=139, avg=69.10
-  moves_right  min=86, max=416, avg=228.26
-  moves_up     min=14, max=188, avg=68.90
-  moves_down   min=89, max=371, avg=225.50
+  moves_left   min=27, max=170, avg=92.72
+  moves_right  min=93, max=364, avg=218.70
+  moves_up     min=15, max=169, avg=88.80
+  moves_down   min=96, max=358, avg=221.58
 
-Best score run:  {'score': 18576, 'max_tile': 1024, 'total_moves': 996, 'moves_left': 45, 'moves_right': 416, 'moves_up': 179, 'moves_down': 356}
-Worst score run: {'score': 2680, 'max_tile': 128, 'total_moves': 241, 'moves_left': 24, 'moves_right': 100, 'moves_up': 27, 'moves_down': 89}
+Best score run:  {'score': 16484, 'max_tile': 1024, 'total_moves': 985, 'moves_left': 122, 'moves_right': 364, 'moves_up': 143, 'moves_down': 355}
+Worst score run: {'score': 3124, 'max_tile': 256, 'total_moves': 258, 'moves_left': 37, 'moves_right': 93, 'moves_up': 15, 'moves_down': 112}

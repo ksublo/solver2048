@@ -134,10 +134,5 @@ For this project, I used AI to implement three different 2048 solvers: Rule-Base
 algorithms aren’t the most efficient or highest-performing, they work reliably and produce respectable results. I also
 wrote helper functions to collect statistics and visualize the outcomes, so I’m satisfied with what I’ve achieved.
 
-I have a personal philosophy that I should always strive to make my work as good as possible. At the same time, I remind
-myself of a valuable piece of advice: “You can spend hours and hours perfecting something, but if it already works well,
-do you really need to make it better?”
-
-To be honest, I’m not deeply passionate about Python or writing code in this language. I’m comfortable with these
-solvers as they are, and I’m ready to move on.  
+ 
 

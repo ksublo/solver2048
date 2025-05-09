@@ -1,14 +1,14 @@
 Summary for random_solver_results.csv
 
-Score        min=248, max=2128, avg=1003.12
-Max_Tile     min=32, max=256, avg=99.84
-Total_Moves  min=57, max=196, avg=134.78
+Score        min=172, max=2428, avg=1068.88
+Max_Tile     min=32, max=256, avg=106.88
+Total_Moves  min=45, max=270, avg=137.38
 
 Directional moves:
-  moves_left   min=15, max=55, avg=33.46
-  moves_right  min=11, max=61, avg=33.52
-  moves_up     min=16, max=60, avg=33.90
-  moves_down   min=14, max=52, avg=32.90
+  moves_left   min=9, max=77, avg=33.28
+  moves_right  min=14, max=61, avg=34.40
+  moves_up     min=5, max=63, avg=35.24
+  moves_down   min=13, max=73, avg=33.46
 
-Best score run:  {'score': 2128, 'max_tile': 256, 'total_moves': 196, 'moves_left': 55, 'moves_right': 44, 'moves_up': 47, 'moves_down': 49}
-Worst score run: {'score': 248, 'max_tile': 32, 'total_moves': 57, 'moves_left': 15, 'moves_right': 11, 'moves_up': 16, 'moves_down': 14}
+Best score run:  {'score': 2428, 'max_tile': 256, 'total_moves': 270, 'moves_left': 77, 'moves_right': 56, 'moves_up': 63, 'moves_down': 73}
+Worst score run: {'score': 172, 'max_tile': 32, 'total_moves': 45, 'moves_left': 12, 'moves_right': 14, 'moves_up': 5, 'moves_down': 13}
